@@ -1,0 +1,3 @@
+GET http://localhost:3333/me
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNlbHNvYWxleGFuZHJlQGxpdmUuY29tIiwiZXhwIjoxNzExNjYyNTIyLCJ1c2VySWQiOjF9.dUVMKGc-zcVJ_oaKrGQ7jUjmdeaoQlB-mROHFzNqozE
