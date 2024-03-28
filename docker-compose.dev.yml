@@ -1,0 +1,8 @@
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: docker1234
+    ports:
+      - 5432:5432
